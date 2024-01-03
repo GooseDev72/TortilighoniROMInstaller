@@ -1,6 +1,13 @@
 # TortilighoniROMInstaller
 A custom ROM installer written in Shell to install recovery ROM using fastboot.
 
+## Included binaries
+```
+tri-aod.bat - A-only dynamic device
+tri-aon.bat - A-only non-dynamic device
+tri-abd.bat - A/B dynamic device
+tri-abn.bat - A/B non-dynamic device
+```
 ## Usage
 ```
 tri-XXX.bat /path/to/package.zip
